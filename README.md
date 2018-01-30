@@ -12,7 +12,3 @@ For further information about the bidirectional operation have a look on the fol
 * [Level-Shifter 4 Channels, bidirectional (suitable for I2C)](http://www.watterott.com/en/Level-Shifter)
 * [Level-Shifter 6 Channels, bidirectional (suitable for I2C)](http://www.watterott.com/en/Level-Shifter-6-Channel)
 * [Level-Shifter 8 Channels, 74LVC244](http://www.watterott.com/en/Level-Shifter-8-Channel)
-
-
-## Hardware
-* [Schematics + Layout](https://github.com/watterott/Level-Shifter/tree/master/hardware)
